@@ -9,6 +9,6 @@ class Triangle
   end
   
   def valid?
-    
+    d
     
 end
